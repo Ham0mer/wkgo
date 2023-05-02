@@ -1,0 +1,1 @@
+import{d as s,o as a,c as l,as as n,a as e}from"./index-a7be1de6.js";const o=e("div",null,"xx分类管理",-1),t=e("div",null,null,-1),u=s({__name:"lessonList",setup:s=>(s,e)=>(a(),l(n,null,[o,t],64))});export{u as default};
